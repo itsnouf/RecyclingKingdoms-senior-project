@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953882623722",
+    "project_id": "recyclingkingdoms-c7669",
+    "storage_bucket": "recyclingkingdoms-c7669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953882623722:android:f86d8630bdcf9258512193",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.RecyclingKingdoms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkMACvVDszPJGMA-I2a4LZAUPCG4Tamw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
